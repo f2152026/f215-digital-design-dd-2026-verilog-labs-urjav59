@@ -53,6 +53,7 @@ module ripple_adder(
         .cin(c3),
         .sum(sum[3]),
         .cout(cout)
+        
     );
 
 endmodule
